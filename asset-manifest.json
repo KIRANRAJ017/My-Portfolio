@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/KIRANRAJ017/My-portfolio/static/css/main.4fa9d881.css",
+    "main.css": "/KIRANRAJ017/My-portfolio/static/css/main.38dbb3e3.css",
     "main.js": "/KIRANRAJ017/My-portfolio/static/js/main.8fef7853.js",
     "static/media/profile2.png": "/KIRANRAJ017/My-portfolio/static/media/profile2.b119fba31171c3b9afbc.png",
     "static/media/Fitness.jpeg": "/KIRANRAJ017/My-portfolio/static/media/Fitness.8feee4dd93910b1e2101.jpeg",
@@ -8,11 +8,11 @@
     "static/media/Resume.pdf": "/KIRANRAJ017/My-portfolio/static/media/Resume.93367cd70465e926db0d.pdf",
     "static/media/Todo.jpeg": "/KIRANRAJ017/My-portfolio/static/media/Todo.07ebfe74a627947ff0bb.jpeg",
     "index.html": "/KIRANRAJ017/My-portfolio/index.html",
-    "main.4fa9d881.css.map": "/KIRANRAJ017/My-portfolio/static/css/main.4fa9d881.css.map",
+    "main.38dbb3e3.css.map": "/KIRANRAJ017/My-portfolio/static/css/main.38dbb3e3.css.map",
     "main.8fef7853.js.map": "/KIRANRAJ017/My-portfolio/static/js/main.8fef7853.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fa9d881.css",
+    "static/css/main.38dbb3e3.css",
     "static/js/main.8fef7853.js"
   ]
 }
